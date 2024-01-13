@@ -7,7 +7,6 @@ class E02 {
         int input1 = scanner.nextInt();
         System.out.println("Give another number: ");
         int input2 = scanner.nextInt();
-        System.out.println( "");
         System.out.println(input1+" + "+input2+" = "+(input1+input2));
         System.out.println(input1+" * "+input2+" = "+(input1*input2));
         System.out.println(input1+" - "+input2+" = "+(input1-input2));

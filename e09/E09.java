@@ -9,7 +9,7 @@ class E09 {
         double avg = 0.0;
         int x = 1;
         while (valid) {
-            System.out.println("Give a test score (-1 to quit): ");
+            System.out.println("Give a test score (-1 to quit):");
             double score = scanner.nextDouble();
             
             if (score == -1) {

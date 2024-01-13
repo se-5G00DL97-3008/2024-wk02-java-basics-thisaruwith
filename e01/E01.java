@@ -10,7 +10,6 @@ class E01 {
         byte num = 100;
         double pi = 3.13457599923384753929348; 
 
-        System.out.println( "// Expected output");
         System.out.println(x);
         System.out.println(y);
         System.out.println(flag);

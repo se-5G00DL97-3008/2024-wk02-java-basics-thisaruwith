@@ -6,7 +6,7 @@ class E08 {
 
         boolean valid = true;
         while (valid) {
-            System.out.println("Enter a number (0 to quit):");
+            System.out.println("Give a number (0 to quit):");
             int input = scanner.nextInt();
 
             if (input == 0) {

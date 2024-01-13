@@ -4,7 +4,7 @@ class E01 {
         int x = 10;
         float y = 5.5f;
         boolean flag = true;
-        char letter = 'a';
+        char letter = 'c';
         short year = 2022;
         long population = 7000000000L;
         byte num = 100;

@@ -8,8 +8,8 @@ class E02 {
         System.out.println(" Give a number: ");
         int input2 = scanner.nextInt();
         System.out.println(input1+" + "+input2+" = "+(input1+input2));
-        System.out.println(input1+" * "+input2+" = "+(input1*input2));
         System.out.println(input1+" - "+input2+" = "+(input1-input2));
+        System.out.println(input1+" x "+input2+" = "+(input1*input2));
         System.out.println(input1+" / "+input2+" = "+(input1/input2));
     }
 }
